@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "reviews"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/AlphinDThomas
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: materia
+    css: styles.css
+
+
+
