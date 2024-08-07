@@ -3,6 +3,7 @@ title: "my reviews"
 author: "frost"
 date: "2024-08-03"
 categories: [views]
+image: "thumbnail.jpg"
 ---
 
 This is the first post in a Quarto blog. Welcome!u may find this boring , but its currently exciting enough for me .
