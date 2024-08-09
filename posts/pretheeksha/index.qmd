@@ -1,7 +1,7 @@
 ---
-title: "pretheeksha pro max"
+title: "പ്രതീക്ഷ"
 author: "Alphin D Thomas"
-date: "3099-08-03"
+date: "2024-08-03"
 categories: [lessons]
 image: "thumbnail.jpg"
 ---
